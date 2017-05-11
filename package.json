@@ -1,0 +1,26 @@
+{
+  "name": "stringsplosion",
+  "version": "1.0.0",
+  "description": "a stringsplosion repository for a function that uses a manipulate method to splode a passed-in string",
+  "main": "app.js",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine spec/tests.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3m3kalionel/stringSplosion.git"
+  },
+  "keywords": [
+    "jasmine"
+  ],
+  "author": "Emeka Okoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3m3kalionel/stringSplosion/issues"
+  },
+  "homepage": "https://github.com/3m3kalionel/stringSplosion#readme"
+}
